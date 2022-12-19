@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Description: Installing Sonarqube packages
-#Author: Group 5, Isaiah
+#Author: Group 5, Guy Lonla
 #Date: Feb 22 2022
 
 echo "Let's install Sonarqube Packages"
